@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.auranotes.nativeapp-mergeDebugResources-61:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/home/rupendra/.gradle/caches/8.14/transforms/5264cbd5bf3bd4db2c82077a52665879/transformed/work-runtime-2.7.1/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                },
+                {
+                    "source": "/home/rupendra/.gradle/caches/8.14/transforms/ac2c0e937ece384c070af8c517d50bf4/transformed/glance-appwidget-1.1.1/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "184",
+                        "endColumns": "55",
+                        "endOffsets": "235"
+                    }
+                }
+            ]
+        }
+    ]
+}
